@@ -15,13 +15,13 @@
 
 
 ---
-<sup>1</sup> <small> - использовались обученные модели (ссылка: https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Russian/) 
+<sup>1</sup> - использовались обученные модели (ссылка: https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Russian/) 
 
-Переименнованные файлы и папки: </small>
+Переименнованные файлы и папки:
 
-| <small>Тип</small>   | <small>Исходное название</small>         | <small>Новое название</small>          |
-|----------------------|-----------------------------------------|---------------------------------------|
-| <small>Папка</small>  | <small>zero_ru_cont_8k_v3</small>       | <small>ru-RU</small>                   |
-| <small>Папка</small>  | <small>zero_ru.cd_cont_4000</small>     | <small>acoustic-model</small>          |
-| <small>Файл</small>   | <small>ru.dic</small>                    | <small>language-model.lm.bin</small>   |
-| <small>Файл</small>   | <small>ru.lm</small>                     | <small>pronounciation-dictionary.dict</small> |
+| Тип    | Исходное название           | Новое название                 |
+|--------|----------------------------|-------------------------------|
+| Папка  | zero_ru_cont_8k_v3          | ru-RU                         |
+| Папка  | zero_ru.cd_cont_4000        | acoustic-model                |
+| Файл   | ru.dic                      | language-model.lm.bin          |
+| Файл   | ru.lm                       | pronounciation-dictionary.dict|
