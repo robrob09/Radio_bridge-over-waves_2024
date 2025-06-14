@@ -14,7 +14,7 @@
 
 ---
 
-<a name="myfootnote">1</a>: использовались модели ([ссылка](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Russian/zero_ru_cont_8k_v3.tar.gz/download) на скачивание) 
+<sup><a name="myfootnote">1</a></sup> использовались модели ([ссылка](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Russian/zero_ru_cont_8k_v3.tar.gz/download) на скачивание) 
 
 Переименнованные файлы и папки:
 
